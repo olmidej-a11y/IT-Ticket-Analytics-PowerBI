@@ -84,8 +84,8 @@ Desktop viewing
 ## How to Use
 
 1. Import data using the provided SQL script *(or just load the cleaned CSV)*  
-2️. Open the `.pbix` file in Power BI  
-3️. Interact with slicers to explore insights  
+2. Open the `.pbix` file in Power BI  
+3. Interact with slicers to explore insights  
 
 --------------------------------------------------------------------------------------------
 
