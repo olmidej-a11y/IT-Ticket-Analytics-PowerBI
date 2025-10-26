@@ -26,7 +26,8 @@ The goal was to build a clean end-to-end workflow: from raw data ➝ SQL cleanin
 
 --------------------------------------------------------------------------------------
 
-## Folder Structure '''
+## Folder Structure 
+'''
 Data-Analysis-IT-Tickets/
 │
 ├─ Data/
@@ -43,7 +44,8 @@ Data-Analysis-IT-Tickets/
 ├─ Assets/
 │ └─ dashboard_overview.png # Screenshot(s) of dashboard
 │
-└─ README.md '''
+└─ README.md 
+'''
 
 
 
