@@ -27,25 +27,18 @@ The goal was to build a clean end-to-end workflow: from raw data ➝ SQL cleanin
 --------------------------------------------------------------------------------------
 
 ## Folder Structure 
-'''
 Data-Analysis-IT-Tickets/
-│
-├─ Data/
-│ ├─ incident_event_log.csv # Raw data
-│ └─ incidents_final.csv # Cleaned data
-│ 
-│
-├─ SQL/
-│ └─ incidents_final_setup.sql # Full data cleaning script
-│
-├─ PowerBI/
-│ └─ IT_Tickets_Dashboard.pbix # Final report
-│
-├─ Assets/
-│ └─ dashboard_overview.png # Screenshot(s) of dashboard
-│
-└─ README.md 
-'''
+  Data/
+    incident_event_log.csv   # Raw data
+    incidents_final.csv      # Cleaned data
+  SQL/
+    incidents_final_setup.sql # Full data cleaning script
+  PowerBI/
+    IT_Tickets_Dashboard.pbix # Final report
+  Assets/
+    dashboard_overview.png   # Screenshot(s) of dashboard
+  README.md
+
 
 
 
